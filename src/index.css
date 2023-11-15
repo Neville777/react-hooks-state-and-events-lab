@@ -39,8 +39,8 @@ span[role="image"] {
 
 .App.dark {
   --font-color: rgb(255, 255, 255);
-  --background: rgb(50, 50, 50);
-  --background--light: rgb(80, 80, 80);
+  --background: rgb(233, 17, 17);
+  --background--light: rgb(7, 243, 204);
   transition: all 0.3s;
 }
 
